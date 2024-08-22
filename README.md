@@ -1,2 +1,3 @@
 <h1 align="center">Hi 👋, I'm KALAL RAJIV</h1>
-![image](https://github.com/user-attachments/assets/ebf5715f-8327-417a-bd42-11a52e6f0c9d)
+
+![images](https://github.com/user-attachments/assets/3adc9fa9-73e5-412a-9a3e-d25aaf01e669)
