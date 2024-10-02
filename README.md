@@ -5,4 +5,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></img>
   <div class="group relative">
   <button>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
