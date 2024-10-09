@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="terminal.gif"></img><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalalrajiv0169&bg_color=403f40&color=bdb7bd&line=7a7a7a&point=2662d9&area=true&hide_border=true"></imag><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalalrajiv0169&bg_color=1c1c1c&color=bdb7bd&line=b0b0b0&point=2662d9&area=true&hide_border=true
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalalrajiv0169&show_icons=true&theme=github_dark_dimmed&rank_icon=percentile&include_all_commits=true&show=reviews"></img>
+      <img src="https://github-readme-stats.vercel.app/api?username=hdz-088&show_icons=true&theme=github_dark_dimmed&rank_icon=percentile&include_all_commits=true&show=reviews"></img>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></img>
   <div class="group relative">
   <button>
