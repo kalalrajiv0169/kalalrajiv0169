@@ -33,14 +33,14 @@ Here are some ideas to get you started:
   <h4>🎨 CREATIVE SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)]<br/>
+![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)<br/>
 
 <div>
   <h4>📷 SOCIAL MEDIA:</h4>
 </div>
 
 [![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kalalrajiv0169/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/KALALRAJIV)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://in.linkedin.com/in/kalal-rajiv-8610b3262/)&nbsp;&nbsp; 
 <!--[![SkillIcons](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22868652/krish-satasiya)&nbsp;&nbsp;-->
 [![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/kalalrajiv0169)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
