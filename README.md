@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 </p>
 <br></br>
 <div>
-  <h4>👩‍💻 CODING SKILLS:</h4>
+<img align="left" alt="Coding" width="25" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
+<h3> Connect with me:</h3>
 </div>
 
 ![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)<br/>
