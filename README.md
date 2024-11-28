@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 </p>
 <br></br>
 <hr/>
-<img align="left" alt="Coding" width="25" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
+<div>
+<img align="left" alt="Coding" width="25" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif"></div>
 <h3> Connect with me:</h3>
 <p align="left">
 
