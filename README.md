@@ -27,25 +27,26 @@ Here are some ideas to get you started:
   <h4>👩‍💻 CODING SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)](https://henilshah.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)]<br/>
 
 <div>
   <h4>🎨 CREATIVE SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)](https://henilshah.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)]<br/>
 
 <div>
   <h4>📷 SOCIAL MEDIA:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/henil482/)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henilshah20)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kalalrajiv0169/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/KALALRAJIV)&nbsp;&nbsp; 
 <!--[![SkillIcons](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22868652/krish-satasiya)&nbsp;&nbsp;-->
-[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/HenilShah2012)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/kalalrajiv0169)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@HenilShah20)&nbsp;&nbsp; 
-[![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:shahhenil51@gmail.com)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@rk50)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:rajivkalal7600@gmail.com
+)&nbsp;&nbsp; 
 
 <!-- for update : https://github.com/tandpfun/skill-icons -->  
 
