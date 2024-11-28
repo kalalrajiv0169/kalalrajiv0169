@@ -24,8 +24,10 @@ Here are some ideas to get you started:
   I'm a Highly skilled and passionate software engineer with a flair for creating innovative solutions. With a strong background in computer science and programming, I’ve developed a diverse range of technical skills that enable me to tackle complex challenges in software development.Over the years, I’ve consistently demonstrated my ability to deliver high-quality software products. I’m proficient in various programming languages including Python, Java, and C++, and possess extensive knowledge of software development methodologies and best practices. 
 </p>
 <br></br>
+<hr/>
 <img align="left" alt="Coding" width="25" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
 <h3> Connect with me:</h3>
+<p align="left">
 
 ![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)<br/>
 
