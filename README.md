@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   <div id="badges">
 
 <h1 align="center">Hi 👋, I'm KALAL RAJIV</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
 
 <p text-align: justify; text-justify: inter-word;>
