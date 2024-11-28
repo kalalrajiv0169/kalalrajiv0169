@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 [![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@rk50)&nbsp;&nbsp; 
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:rajivkalal7600@gmail.com
-)&nbsp;&nbsp; 
+)&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <!-- for update : https://github.com/tandpfun/skill-icons -->  
 
