@@ -28,13 +28,13 @@ Here are some ideas to get you started:
   <h4>👩‍💻 CODING SKILLS:</h4>
 </div>
 
-![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)<br/>
+![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,php,aws,gcp,azure,react,flutter,androidstudio,bootstrap,flutter,git,github,mysql,nodejs,npm,netlify,visualstudio,vscode)<br/>
 
 <div>
   <h4>🎨 CREATIVE SKILLS:</h4>
 </div>
 
-![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)<br/>
+![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai)<br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 
 ## 🐍 Snake-Eating My Contribution
